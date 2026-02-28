@@ -1,0 +1,56 @@
+name: LLM Summary
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+  workflow_dispatch:
+
+concurrency:
+  group: mygroup
+  cancel-in-progress: false
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout kohsmemo
+      uses: actions/checkout@v2
+      with:
+        path: kohsmemo
+
+    - name: Checkout kohsmemo-summary
+      uses: actions/checkout@v2
+      with:
+        repository: leehyon/kohsmemo-summary
+        path: kohsmemo-summary
+        token: ${{ secrets.PAT }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r kohsmemo-summary/requirements.txt
+
+    - name: Process changes
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        OPENAI_API_MODEL: ${{ vars.OPENAI_API_MODEL }}
+        OPENAI_API_ENDPOINT: ${{ vars.OPENAI_API_ENDPOINT }}
+      run: |
+        python kohsmemo-summary/process_changes.py
+
+    - name: Commit changes to kohsmemo-summary
+      run: |
+        cd kohsmemo-summary
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "ci: add new summaries" || echo "No changes to commit"
+        git push
