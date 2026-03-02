@@ -1,3 +1,4 @@
+- [Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) #agent#advice
 - [Personal Infrastructure Setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #home#setup
 - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/) #career
 - [Just Write](https://www.rugu.dev/en/blog/write/) #life
