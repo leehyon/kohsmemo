@@ -1,3 +1,4 @@
+- [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/) #career
 - [Just Write](https://www.rugu.dev/en/blog/write/) #life
 
 # About
