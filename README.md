@@ -1,3 +1,4 @@
+- [Just Write](https://www.rugu.dev/en/blog/write/) #life
 
 # About
 
