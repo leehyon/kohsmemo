@@ -1,3 +1,4 @@
+- [家庭网络环境改造](https://tubetrue01.github.io/articles/2023/09/13/entertainment/%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%94%B9%E9%80%A0/) #home#web#setup
 - [Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) #agent#advice
 - [Personal Infrastructure Setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #home#setup
 - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/) #career
