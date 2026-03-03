@@ -1,3 +1,4 @@
+- [AI Coding：從「Vibe Coding」到專業開發](https://techblog.lycorp.co.jp/zh-hant/20250626a) #vibe-coding#advice
 - [Neko Master: 从 0 到 1K+ Star 的 Vibe Coding 实践](https://luolei.org/neko-master-vibe-coding) #agent#best-practice
 - [我的退休计划：把无期变成有期](https://www.bmpi.dev/self/my-retirement-plan/) #life
 - [家庭网络环境改造](https://tubetrue01.github.io/articles/2023/09/13/entertainment/%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%94%B9%E9%80%A0/) #home#web#setup
