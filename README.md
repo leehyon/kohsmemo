@@ -1,3 +1,4 @@
+- [Claude Skills 入门：一篇文章搞懂 AI 怎么从「嘴替」升级成「打工人」](https://sspai.com/post/105284) #skill#agent#guide
 - [谈谈 AI 编程工具的进化与 Vibe Coding](https://guangzhengli.com/blog/zh/vibe-coding-and-context-coding) #vibe-coding#agent#advice
 - [AI Coding：從「Vibe Coding」到專業開發](https://techblog.lycorp.co.jp/zh-hant/20250626a) #vibe-coding#advice
 - [Neko Master: 从 0 到 1K+ Star 的 Vibe Coding 实践](https://luolei.org/neko-master-vibe-coding) #agent#best-practice
