@@ -1,3 +1,4 @@
+- [Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html) #agent
 - [Design-First Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html) #agent#design
 - [Skills - 从编程工具的配角到 Agent 研发的核心](https://developer.aliyun.com/article/1714757) #skill#agent
 - [2026 年，我把自己做成了一个 AI](https://luolei.org/luolei-ai) #life#llm
