@@ -1,3 +1,4 @@
+- [A pragmatic guide to LLM evals for devs](https://newsletter.pragmaticengineer.com/p/evals) #guide#llm
 - [They have to be able to talk about us without us](https://anildash.com/2025/12/05/talk-about-us-without-us/) #life
 - [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) #agent
 - [A Year of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) #agent
