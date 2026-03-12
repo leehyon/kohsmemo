@@ -1,3 +1,4 @@
+- [They have to be able to talk about us without us](https://anildash.com/2025/12/05/talk-about-us-without-us/) #life
 - [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) #agent
 - [A Year of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) #agent
 - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/) #view
