@@ -1,3 +1,4 @@
+- [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/) #view
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) #python#why
 - [你不知道的 Claude Code：架构、治理与工程实践](https://tw93.fun/2026-03-12/claude.html) #agent#best-practice
 - [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/) #agent
