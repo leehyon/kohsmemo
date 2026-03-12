@@ -1,3 +1,4 @@
+- [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) #agent
 - [A Year of Vibes](https://lucumr.pocoo.org/2025/12/22/a-year-of-vibes/) #agent
 - [Software engineers should be a little bit cynical](https://www.seangoedecke.com/a-little-bit-cynical/) #view
 - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) #python#why
