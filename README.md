@@ -1,3 +1,4 @@
+- [Own A Graph](https://staysaasy.com/strategy/2025/11/26/own-a-graph.html) #career
 - [Context plumbing](https://interconnected.org/home/2025/11/28/plumbing) #agent
 - [Stop Over-thinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions) #agent#life
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) #career
