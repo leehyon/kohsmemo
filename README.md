@@ -1,3 +1,4 @@
+- [Context plumbing](https://interconnected.org/home/2025/11/28/plumbing) #agent
 - [Stop Over-thinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions) #agent#life
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) #career
 - [A pragmatic guide to LLM evals for devs](https://newsletter.pragmaticengineer.com/p/evals) #guide#llm
