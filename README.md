@@ -1,3 +1,4 @@
+- [Stop Over-thinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions) #agent#life
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) #career
 - [A pragmatic guide to LLM evals for devs](https://newsletter.pragmaticengineer.com/p/evals) #guide#llm
 - [They have to be able to talk about us without us](https://anildash.com/2025/12/05/talk-about-us-without-us/) #life
