@@ -1,3 +1,4 @@
+- [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/) #career
 - [Intermediate Developer](https://dawranliou.com/blog/intermediate-dev/) #career
 - [Becoming unblockable](https://www.seangoedecke.com/unblockable/) #career
 - [Own A Graph](https://staysaasy.com/strategy/2025/11/26/own-a-graph.html) #career
