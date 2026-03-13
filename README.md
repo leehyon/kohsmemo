@@ -1,3 +1,4 @@
+- [Becoming unblockable](https://www.seangoedecke.com/unblockable/) #career
 - [Own A Graph](https://staysaasy.com/strategy/2025/11/26/own-a-graph.html) #career
 - [Context plumbing](https://interconnected.org/home/2025/11/28/plumbing) #agent
 - [Stop Over-thinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions) #agent#life
