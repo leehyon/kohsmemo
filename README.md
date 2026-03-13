@@ -1,3 +1,4 @@
+- [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) #dev
 - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/) #career
 - [Intermediate Developer](https://dawranliou.com/blog/intermediate-dev/) #career
 - [Becoming unblockable](https://www.seangoedecke.com/unblockable/) #career
