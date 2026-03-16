@@ -1,3 +1,4 @@
+- [使用 GitHub Copilot 进行 Vibe Coding](https://www.bboy.app/2026/03/16/%E4%BD%BF%E7%94%A8github-copilot%E8%BF%9B%E8%A1%8Cvibe-coding/) #agent#vibe-coding
 - [To get better at technical writing, lower your expectations](https://www.seangoedecke.com/technical-communication/) #writing
 - [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) #dev
 - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/) #career
