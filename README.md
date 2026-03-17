@@ -1,3 +1,4 @@
+- [为什么 AI 只会说正确的废话，以及怎么把它逼出舒适区](https://yage.ai/context-infrastructure.html) #agent#best-practice
 - [The Thing I Loved Has Changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/) #career
 - [使用 GitHub Copilot 进行 Vibe Coding](https://www.bboy.app/2026/03/16/%E4%BD%BF%E7%94%A8github-copilot%E8%BF%9B%E8%A1%8Cvibe-coding/) #agent#vibe-coding
 - [To get better at technical writing, lower your expectations](https://www.seangoedecke.com/technical-communication/) #writing
