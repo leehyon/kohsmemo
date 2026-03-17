@@ -1,3 +1,4 @@
+- [OpenSpec 使用心得](https://kaifeiji.cc/post/using-openspec/) #guide#setup
 - [It Depends](https://idiallo.com/blog/it-depends-experts-never-give-straight-answers) #engineering
 - [Which web frameworks are most token-efficient for AI agents](https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/) #agent
 - [AI 越用越累的真相：配置税与验证地狱](https://lukefan.com/2026/03/16/ai-fatigue-income-drop-work-creep-verification-hell-youtube-2025/) #agent#best-practice#career
