@@ -1,3 +1,4 @@
+- [OpenClaw 从热闹到落地：后端团队可复用的治理与内容运营实战](https://www.rowkey.cn/blog/2026/03/18/openclaw-from-demo-to-production/) #agent#engineering
 - [When AI Writes the World's Software, Who Verifies It](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) #agent#engineering
 - [Building a High-End AI Desktop](https://dnhkng.github.io/posts/hopper/) #home#setup
 - [How I estimate work as a staff software engineer](https://www.seangoedecke.com/how-i-estimate-work/) #engineering
