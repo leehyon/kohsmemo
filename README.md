@@ -1,3 +1,4 @@
+- [When AI Writes the World's Software, Who Verifies It](https://leodemoura.github.io/blog/2026-2-28-when-ai-writes-the-worlds-software-who-verifies-it/) #agent#engineering
 - [Building a High-End AI Desktop](https://dnhkng.github.io/posts/hopper/) #home#setup
 - [How I estimate work as a staff software engineer](https://www.seangoedecke.com/how-i-estimate-work/) #engineering
 - [Personal infrastructure setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #setup#home
