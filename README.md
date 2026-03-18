@@ -1,3 +1,4 @@
+- [Personal infrastructure setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #setup#home
 - [OpenSpec 使用心得](https://kaifeiji.cc/post/using-openspec/) #guide#setup
 - [It Depends](https://idiallo.com/blog/it-depends-experts-never-give-straight-answers) #engineering
 - [Which web frameworks are most token-efficient for AI agents](https://martinalderson.com/posts/which-web-frameworks-are-most-token-efficient-for-ai-agents/) #agent
