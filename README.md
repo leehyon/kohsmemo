@@ -1,3 +1,4 @@
+- [How I estimate work as a staff software engineer](https://www.seangoedecke.com/how-i-estimate-work/) #engineering
 - [Personal infrastructure setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #setup#home
 - [OpenSpec 使用心得](https://kaifeiji.cc/post/using-openspec/) #guide#setup
 - [It Depends](https://idiallo.com/blog/it-depends-experts-never-give-straight-answers) #engineering
