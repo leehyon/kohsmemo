@@ -1,3 +1,4 @@
+- [Switch to Jujutsu already](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/) #setup
 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) #agent#engineering
 - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/) #engineering#design
 - [信息过载时代，我的漏斗式阅读工作流](https://shawnxie.top/blogs/tools/read-flow-2026.html) #setup#reading
