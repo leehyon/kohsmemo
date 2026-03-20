@@ -1,3 +1,4 @@
+- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) #agent#engineering
 - [The programmers who live in Flatland](https://blog.redplanetlabs.com/2025/11/24/the-programmers-who-live-in-flatland/) #engineering#design
 - [信息过载时代，我的漏斗式阅读工作流](https://shawnxie.top/blogs/tools/read-flow-2026.html) #setup#reading
 - [2016 年，我做过一次 AI 写代码创业](http://blog.youxu.info/2026/01/14/ai-codes-retrospective/) #career#engineering
