@@ -1,3 +1,4 @@
+- [2016 年，我做过一次 AI 写代码创业](http://blog.youxu.info/2026/01/14/ai-codes-retrospective/) #career#engineering
 - [为什么你的 AI Agent 总是像个智障](https://tonybai.com/2026/03/18/why-ai-agents-act-stupid-manus-expert-pitfall-guide/) #best-practice#agent
 - [AGENTS.md](https://kaifeiji.cc/post/using-agents-md/) #agent#best-practice
 - [OpenClaw 从热闹到落地：后端团队可复用的治理与内容运营实战](https://www.rowkey.cn/blog/2026/03/18/openclaw-from-demo-to-production/) #agent#engineering
