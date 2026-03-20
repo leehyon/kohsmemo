@@ -1,3 +1,4 @@
+- [信息过载时代，我的漏斗式阅读工作流](https://shawnxie.top/blogs/tools/read-flow-2026.html) #setup#reading
 - [2016 年，我做过一次 AI 写代码创业](http://blog.youxu.info/2026/01/14/ai-codes-retrospective/) #career#engineering
 - [为什么你的 AI Agent 总是像个智障](https://tonybai.com/2026/03/18/why-ai-agents-act-stupid-manus-expert-pitfall-guide/) #best-practice#agent
 - [AGENTS.md](https://kaifeiji.cc/post/using-agents-md/) #agent#best-practice
