@@ -1,3 +1,4 @@
+- [顶级交易员浓缩 14 年的 5 个交易心理学法则](https://blog.forecho.com/14-years-trading-psychology.html) #trade#advice#life
 - [深度解析AI Coding辅助神器 Superpowers](https://zxs.io/article/2172) #agent#skill#engineering
 - [Switch to Jujutsu already](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/) #setup
 - [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/) #agent#engineering
