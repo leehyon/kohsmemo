@@ -1,3 +1,4 @@
+- [一份关于 AI 编程的简明行为指南](https://www.piglei.com/articles/a-simple-ai-coding-guide-for-engineers/) #agent#advice
 - [基于 Cloudflare 生态的 AI Agent 实现](https://surmon.me/article/307) #agent#engineering
 - [可能是最后一次更换博客引擎](https://jw1.dev/blog-engine/) #blog#setup
 - [如何让 OpenClaw 更好用 - 调教篇](https://heyuanfei.com/post/2026-03-19-openclaw/) #best-practice#agent
