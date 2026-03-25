@@ -1,3 +1,4 @@
+- [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) #advice#life
 - [给做独立站新手的一些建议 ](https://www.ccgxk.com/codeother/690.html) #advice
 - [OpenClaw Gateway 三种对外接口怎么选](https://www.rowkey.cn/blog/2026/03/24/openclaw-gateway-protocol-comparison/) #agent
 - [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
