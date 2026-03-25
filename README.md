@@ -1,3 +1,4 @@
+- [如何让 OpenClaw 更好用 - 调教篇](https://heyuanfei.com/post/2026-03-19-openclaw/) #best-practice#agent
 - [Steve Yegge's Vibe Coding Manifesto](https://www.latent.space/p/steve-yegges-vibe-coding-manifesto?showTranscript=true) #podcast#transcript#agent
 - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) #advice#life
 - [给做独立站新手的一些建议 ](https://www.ccgxk.com/codeother/690.html) #advice
