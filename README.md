@@ -1,3 +1,4 @@
+- [可能是最后一次更换博客引擎](https://jw1.dev/blog-engine/) #blog#setup
 - [如何让 OpenClaw 更好用 - 调教篇](https://heyuanfei.com/post/2026-03-19-openclaw/) #best-practice#agent
 - [Steve Yegge's Vibe Coding Manifesto](https://www.latent.space/p/steve-yegges-vibe-coding-manifesto?showTranscript=true) #podcast#transcript#agent
 - [Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/) #advice#life
