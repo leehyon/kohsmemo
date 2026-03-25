@@ -1,3 +1,4 @@
+- [We mourn our craft](https://nolanlawson.com/2026/02/07/we-mourn-our-craft/)
 - [Thoughts On AI In Early 2026](https://lenciel.com/2026/03/my-thoughts-on-ai-in-early-2026-part-1/) #life#agent
 - [优化交互方式让法律 AI 更精准专业](https://jiangcl.com/4486) #agent#law
 - [一个 100% AI 编码的项目如何建立治理闭环](https://www.phodal.com/blog/ai-coded-project-governance-evolution-250k-lines/) #agent#dev
