@@ -1,3 +1,4 @@
+- [从张雪峰聊到认知水平](https://onojyun.com/2026/03/26/the-problem-of-binary-thinking/) #web#view
 - [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/) #linux
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) #llm#math
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) #agent
