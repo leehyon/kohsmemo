@@ -1,3 +1,4 @@
+- [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/) #linux
 - [Quantization from the ground up](https://ngrok.com/blog/quantization) #llm#math
 - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) #agent
 - [数字经济中的注意力交易](https://www.wsh233.cn/post/%e6%95%b0%e5%ad%97%e7%bb%8f%e6%b5%8e%e4%b8%ad%e7%9a%84%e6%b3%a8%e6%84%8f%e5%8a%9b%e4%ba%a4%e6%98%93) #life
