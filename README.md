@@ -1,3 +1,4 @@
+- [数字经济中的注意力交易](https://www.wsh233.cn/post/%e6%95%b0%e5%ad%97%e7%bb%8f%e6%b5%8e%e4%b8%ad%e7%9a%84%e6%b3%a8%e6%84%8f%e5%8a%9b%e4%ba%a4%e6%98%93) #life
 - [历史不站在你以为的那一边](https://quant67.com/post/ai-philosophy/craftsmen-fate.html) #engineering#career
 - [Claude Code 的三种 Skill 类型以及一些常见陷阱](https://www.ccgxk.com/codeother/689.html) #best-practice#agent
 - [OpenClaw 必装 10 大技能](https://www.suiyan.cc/blog/20260320190747) #setup#openclaw
