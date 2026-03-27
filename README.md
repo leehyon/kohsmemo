@@ -1,3 +1,4 @@
+- [Ruler - 多 AI 编程助手统一配置管理方案](https://atbug.com/ruler-unified-ai-coding-assistant-configuration/)
 - [Ruby Is the Best Language for Building AI Apps](https://paolino.me/ruby-is-the-best-language-for-ai-apps/) #engineering
 - [The Slow Collapse of MkDocs](https://fpgmaas.com/blog/collapse-of-mkdocs/) #story
 - [从张雪峰聊到认知水平](https://onojyun.com/2026/03/26/the-problem-of-binary-thinking/) #web#view
