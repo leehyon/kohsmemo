@@ -1,3 +1,4 @@
+- [我是如何构建一个 AI 原生量化系统的](https://www.bmpi.dev/dev/ai-native-investment-system/) #trade#agent
 - [Ruler - 多 AI 编程助手统一配置管理方案](https://atbug.com/ruler-unified-ai-coding-assistant-configuration/)
 - [Ruby Is the Best Language for Building AI Apps](https://paolino.me/ruby-is-the-best-language-for-ai-apps/) #engineering
 - [The Slow Collapse of MkDocs](https://fpgmaas.com/blog/collapse-of-mkdocs/) #story
