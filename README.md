@@ -1,3 +1,4 @@
+- [模型智能提升的下一个关键方向](https://www.bestblogs.dev/en/article/4895edc3) #agent#llm
 - [Beyond the Vector Store: Building the Full Data Layer for AI Applications](https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/) #agent#engineering
 - [OpenClaw：技术解读和给 AI 应用开发的启示（2026）](https://arthurchiao.art/blog/openclaw-technical-notes-zh/) #agent#openclaw
 - [How I manage Images for my Blog](https://blog.lysk.tech/excalidraw-frame-export/) #blog#setup
