@@ -1,3 +1,4 @@
+- [从 Vibe Coding 到范式编程](https://www.bestblogs.dev/en/article/0a76d16b) #engineering#vibe-coding
 - [胶水编程：业务需求出码最佳实践](https://www.bestblogs.dev/en/article/1b54037f) #agent#best-practice#vibe-coding
 - [模型智能提升的下一个关键方向](https://www.bestblogs.dev/en/article/4895edc3) #agent#llm
 - [Beyond the Vector Store: Building the Full Data Layer for AI Applications](https://machinelearningmastery.com/beyond-the-vector-store-building-the-full-data-layer-for-ai-applications/) #agent#engineering
