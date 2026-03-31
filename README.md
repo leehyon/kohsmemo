@@ -1,3 +1,4 @@
+- [How I manage Images for my Blog](https://blog.lysk.tech/excalidraw-frame-export/) #blog#setup
 - [Don't Let AI Write For You](https://alexhwoods.com/dont-let-ai-write-for-you/) #writing
 - [AI Agent 正在进入工程化深水区](https://www.rowkey.cn/blog/2026/03/31/ai-agent-engineering-depth/) #agent#engineering
 - [用 iMessage 串接 Claude Code](https://raymondhouch.com/lifehacker/digital-workflow/imessage-claude-code-ai-assistant/) #life#setup
