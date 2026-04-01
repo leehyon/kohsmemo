@@ -1,3 +1,4 @@
+- [💥 Claude Code 源码泄露？我把这个最强 AI Coding Agent 的架构扒干净了](https://juejin.cn/post/7623242804392902665) #agent#why
 - [Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html) #engineering
 - [Rust 所有权：C++ RAII 本来想成为的样子](https://quant67.com/post/rust/ownership-vs-raii/ownership-vs-raii.html) #cpp#design
 - [从 Vibe Coding 到范式编程](https://www.bestblogs.dev/en/article/0a76d16b) #engineering#vibe-coding
