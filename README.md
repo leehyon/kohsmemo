@@ -1,3 +1,4 @@
+- [Rust 所有权：C++ RAII 本来想成为的样子](https://quant67.com/post/rust/ownership-vs-raii/ownership-vs-raii.html) #cpp#design
 - [从 Vibe Coding 到范式编程](https://www.bestblogs.dev/en/article/0a76d16b) #engineering#vibe-coding
 - [胶水编程：业务需求出码最佳实践](https://www.bestblogs.dev/en/article/1b54037f) #agent#best-practice#vibe-coding
 - [模型智能提升的下一个关键方向](https://www.bestblogs.dev/en/article/4895edc3) #agent#llm
