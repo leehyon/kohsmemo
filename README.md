@@ -1,3 +1,4 @@
+- [Failure As a Means to Build Resilient Software Systems](https://www.bestblogs.dev/en/article/8cd9172b) #engineering
 - [💥 Claude Code 源码泄露？我把这个最强 AI Coding Agent 的架构扒干净了](https://juejin.cn/post/7623242804392902665) #agent#why
 - [Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html) #engineering
 - [Rust 所有权：C++ RAII 本来想成为的样子](https://quant67.com/post/rust/ownership-vs-raii/ownership-vs-raii.html) #cpp#design
