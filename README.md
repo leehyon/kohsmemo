@@ -1,3 +1,4 @@
+- [Claude Code 源码泄露过程全解析](https://lukefan.com/2026/04/02/claude-code-source-leak-anthropic-ai-release-failure-2026/) #harness#story
 - [Failure As a Means to Build Resilient Software Systems](https://www.bestblogs.dev/en/article/8cd9172b) #engineering
 - [💥 Claude Code 源码泄露？我把这个最强 AI Coding Agent 的架构扒干净了](https://juejin.cn/post/7623242804392902665) #agent#why
 - [Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html) #engineering
