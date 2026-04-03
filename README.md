@@ -1,3 +1,4 @@
+- [Harness engineering for coding agent users](https://www.bestblogs.dev/en/article/1caa5015) #agent
 - [Your job isn't programming](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming) #career#view
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/) #career
 - [Machine Learning: A Practitioner's Mental Model](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md) #guide
