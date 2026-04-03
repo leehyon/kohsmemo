@@ -1,3 +1,4 @@
+- [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/) #career
 - [Machine Learning: A Practitioner's Mental Model](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md) #guide
 - [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) #agent#design#guide
 - [Claude Code 源码泄露过程全解析](https://lukefan.com/2026/04/02/claude-code-source-leak-anthropic-ai-release-failure-2026/) #harness#story
