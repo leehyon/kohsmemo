@@ -1,3 +1,4 @@
+- [在 AI 时代，我是如何深入学习一个技术领域的](https://tw93.fun/2026-04-06/learn.html) #skill#guide
 - [Harness engineering for coding agent users](https://www.bestblogs.dev/en/article/1caa5015) #agent
 - [Your job isn't programming](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming) #career#view
 - [Identify, solve, verify](https://simonwillison.net/2025/Jul/4/identify-solve-verify/) #career
