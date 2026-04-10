@@ -1,3 +1,4 @@
+- [AI is driving rapid workplace changes, but uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) #agent#engineering
 - [从 Rule、Spec 到 Harness：AI Coding 的分阶段演进路径](https://www.phodal.com/blog/from-rule-spec-to-harness-ai-coding-adoption-path/) #agent#engineering
 - [Claude Code 和 OpenClaw 的上下文管理对比](https://finisky.github.io/openclaw-vs-claude-code-agent-arch/) #agent#openclaw#design
 - [Garbage Collection: From First Principles to Modern Collectors in Java, Go and Python](https://shbhmrzd.github.io/systems/garbage-collection/memory-management/2026/04/01/garbage-collectors-deep-dive.html) #design#python#guide
