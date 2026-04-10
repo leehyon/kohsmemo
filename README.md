@@ -1,3 +1,4 @@
+- [Token 经济学七问](https://www.bestblogs.dev/en/article/081cb613) #view
 - [顶级开发团队设计的 Harness 工程项目源码什么样](https://www.bestblogs.dev/en/article/3e1cd52f) #agent#harness#guide#engineering
 - [AI is driving rapid workplace changes, but uneven benefits](https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/) #agent#engineering
 - [从 Rule、Spec 到 Harness：AI Coding 的分阶段演进路径](https://www.phodal.com/blog/from-rule-spec-to-harness-ai-coding-adoption-path/) #agent#engineering
