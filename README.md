@@ -1,3 +1,4 @@
+- [How to walk through walls](https://www.henrikkarlsson.xyz/p/hacker-mindset) #advice#life
 - [Open-Source Agent That Teaches Claude Code Your Architecture](https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/) #agent#best-practice
 - [让 Claude Code 在你睡觉时持续运行：完整实战指南](https://blog.devtang.com/2026/04/15/claude-code-autonomous-guide-zh/) #agent#setup
 - [从 RAG 到知识编译](https://finisky.github.io/llm-wiki/) #blog#llm#best-practice
