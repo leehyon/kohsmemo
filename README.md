@@ -1,3 +1,4 @@
+- [OpenHealth – Chat with Apple Health Data, Anywhere](https://jonno.nz/posts/openhealth-chat-with-apple-health-data/) #life#setup
 - [How to walk through walls](https://www.henrikkarlsson.xyz/p/hacker-mindset) #advice#life
 - [Open-Source Agent That Teaches Claude Code Your Architecture](https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/) #agent#best-practice
 - [让 Claude Code 在你睡觉时持续运行：完整实战指南](https://blog.devtang.com/2026/04/15/claude-code-autonomous-guide-zh/) #agent#setup
