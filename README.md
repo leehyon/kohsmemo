@@ -1,3 +1,4 @@
+- [让 Claude Code 在你睡觉时持续运行：完整实战指南](https://blog.devtang.com/2026/04/15/claude-code-autonomous-guide-zh/) #agent#setup
 - [从 RAG 到知识编译](https://finisky.github.io/llm-wiki/) #blog#llm#best-practice
 - [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html) #guide#why
 - [How I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) #setup
