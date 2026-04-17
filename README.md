@@ -1,3 +1,4 @@
+- [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html) #guide#why
 - [How I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack) #setup
 - [Do You Even Need a Database](https://www.dbpro.app/blog/do-you-even-need-a-database) #engineering#why
 - [OpenClaw 实战：一个人、一台 Mac、六个 AI Agent](https://www.bestblogs.dev/en/article/02471f5f) #best-practice#openclaw
