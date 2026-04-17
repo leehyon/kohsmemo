@@ -1,3 +1,4 @@
+- [Don't default to doing nothing](https://iter.ca/post/default-action/) #life
 - [OpenHealth – Chat with Apple Health Data, Anywhere](https://jonno.nz/posts/openhealth-chat-with-apple-health-data/) #life#setup
 - [How to walk through walls](https://www.henrikkarlsson.xyz/p/hacker-mindset) #advice#life
 - [Open-Source Agent That Teaches Claude Code Your Architecture](https://jonno.nz/posts/open-source-agent-that-teaches-claude-code-your-architecture/) #agent#best-practice
