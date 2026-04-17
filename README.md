@@ -1,3 +1,4 @@
+- [Do You Even Need a Database](https://www.dbpro.app/blog/do-you-even-need-a-database) #engineering#why
 - [OpenClaw 实战：一个人、一台 Mac、六个 AI Agent](https://www.bestblogs.dev/en/article/02471f5f) #best-practice#openclaw
 - [拥抱 AI 这一年，我的工具、实践和思考](https://www.bestblogs.dev/en/article/83fa2a78) #agent#best-practice
 - [Token 经济学七问](https://www.bestblogs.dev/en/article/081cb613) #view
