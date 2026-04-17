@@ -1,3 +1,4 @@
+- [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/) #blog
 - [Don't default to doing nothing](https://iter.ca/post/default-action/) #life
 - [OpenHealth – Chat with Apple Health Data, Anywhere](https://jonno.nz/posts/openhealth-chat-with-apple-health-data/) #life#setup
 - [How to walk through walls](https://www.henrikkarlsson.xyz/p/hacker-mindset) #advice#life
