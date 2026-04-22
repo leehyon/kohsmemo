@@ -1,3 +1,4 @@
+- [The AI engineering stack we built internally - on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/) #engineering#agent
 - [追求稳定是一种代价高昂的被动投机](https://stephenleng.com/cn/zhuiqiu-wending-touji-daijia-gaoang/) #life
 - [命令行的艺术](https://blog.sunmkt.uk/post/the-art-of-command-line-zh/) #linux#setup
 - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/) #blog
