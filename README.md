@@ -1,3 +1,4 @@
+- [Features everyone should steal from npmx](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html) #view#product
 - [Why I don't chain everything in JavaScript anymore](https://allthingssmitty.com/2026/04/20/why-i-dont-chain-everything-in-javascript-anymore/) #language
 - [Friends Don't Let Friends Use Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/) #product
 - [Learnings from conducting ~1,000 interviews at Amazon](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews) #advice#career
