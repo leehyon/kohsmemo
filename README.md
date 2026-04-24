@@ -1,3 +1,4 @@
+- [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/) #view
 - [The paper computer](https://jsomers.net/blog/the-paper-computer) #view
 - [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) #language
 - [Features everyone should steal from npmx](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html) #view#product
