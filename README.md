@@ -1,3 +1,4 @@
+- [Friends Don't Let Friends Use Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/) #product
 - [Learnings from conducting ~1,000 interviews at Amazon](https://newsletter.pragmaticengineer.com/p/learnings-from-conducting-1000-interviews) #advice#career
 - [The AI engineering stack we built internally - on the platform we ship](https://blog.cloudflare.com/internal-ai-engineering-stack/) #engineering#agent
 - [追求稳定是一种代价高昂的被动投机](https://stephenleng.com/cn/zhuiqiu-wending-touji-daijia-gaoang/) #life
