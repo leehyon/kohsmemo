@@ -1,3 +1,4 @@
+- [BestBlogs 2.0 内测开启：我想重新做一款更适合自己的阅读产品](https://ginonotes.com/posts/bestblogs-v2-beta) #engineering#reading
 - [Gemini Robotics ER 1.6: Enhanced Embodied Reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/) #robotics#engineering
 - [Building agents that reach production systems with MCP](https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp) #agent#engineering
 - [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/) #view
