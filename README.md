@@ -1,3 +1,4 @@
+- [Gemini Robotics ER 1.6: Enhanced Embodied Reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/) #robotics#engineering
 - [Building agents that reach production systems with MCP](https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp) #agent#engineering
 - [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/) #view
 - [The paper computer](https://jsomers.net/blog/the-paper-computer) #view
