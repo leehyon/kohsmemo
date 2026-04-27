@@ -1,3 +1,4 @@
+- [Building agents that reach production systems with MCP](https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp) #agent#engineering
 - [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/) #view
 - [The paper computer](https://jsomers.net/blog/the-paper-computer) #view
 - [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/) #language
