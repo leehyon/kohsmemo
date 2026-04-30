@@ -1,3 +1,4 @@
+- [Agentic AI: How to Save on Tokens](https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/) #best-practice#agent
 - [BestBlogs 2.0 内测开启：我想重新做一款更适合自己的阅读产品](https://ginonotes.com/posts/bestblogs-v2-beta) #engineering#reading
 - [Gemini Robotics ER 1.6: Enhanced Embodied Reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/) #robotics#engineering
 - [Building agents that reach production systems with MCP](https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp) #agent#engineering
