@@ -1,3 +1,4 @@
+- [AI 让每个人都成了开发者，就像相机让每个人都成了摄影师”](https://tonybai.com/2026/05/05/ai-makes-everyone-a-developer-like-cameras-for-photographers/) #life#view#engineering
 - [顶层思维](https://www.bestblogs.dev/en/article/8250cc85) #life#view
 - [Agentic AI: How to Save on Tokens](https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/) #best-practice#agent
 - [BestBlogs 2.0 内测开启：我想重新做一款更适合自己的阅读产品](https://ginonotes.com/posts/bestblogs-v2-beta) #engineering#reading
