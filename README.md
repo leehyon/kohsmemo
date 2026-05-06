@@ -1,3 +1,4 @@
+- [一个新的 AI 记忆层概念：哈勃半径](https://1q43.blog/post/12336/) #agent#design#life#setup
 - [AI 让每个人都成了开发者，就像相机让每个人都成了摄影师”](https://tonybai.com/2026/05/05/ai-makes-everyone-a-developer-like-cameras-for-photographers/) #life#view#engineering
 - [顶层思维](https://www.bestblogs.dev/en/article/8250cc85) #life#view
 - [Agentic AI: How to Save on Tokens](https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/) #best-practice#agent
