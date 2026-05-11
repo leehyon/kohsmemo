@@ -1,3 +1,4 @@
+- [在 AI 时代，如何从 0 接手一个项目？](https://www.cnblogs.com/Li-runqing/p/20008588/takeover-project-in-ai-era) #setup#guide
 - [如何利用 AI 理解新项目、接手新项目？](https://www.ccgxk.com/emlog_dev/742.html) #guide
 - [一个新的 AI 记忆层概念：哈勃半径](https://1q43.blog/post/12336/) #agent#design#life#setup
 - [AI 让每个人都成了开发者，就像相机让每个人都成了摄影师”](https://tonybai.com/2026/05/05/ai-makes-everyone-a-developer-like-cameras-for-photographers/) #life#view#engineering
