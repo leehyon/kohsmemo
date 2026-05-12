@@ -1,3 +1,4 @@
+- [用 LLM 管理安全开发规范](http://lichuanyang.top/posts/88001/) #engineering#agent#setup
 - [AI 编程实践](https://wklken.me/posts/2026/05/11/ai-programming-practice.html) #best-practice#agent#skill
 - [在 AI 时代，如何从 0 接手一个项目？](https://www.cnblogs.com/Li-runqing/p/20008588/takeover-project-in-ai-era) #setup#guide
 - [如何利用 AI 理解新项目、接手新项目？](https://www.ccgxk.com/emlog_dev/742.html) #guide
