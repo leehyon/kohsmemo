@@ -1,3 +1,4 @@
+- [I Left Port 22 Open for 54 Days: An SSH Honeypot Study](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up) #reading
 - [用 LLM 管理安全开发规范](http://lichuanyang.top/posts/88001/) #engineering#agent#setup
 - [AI 编程实践](https://wklken.me/posts/2026/05/11/ai-programming-practice.html) #best-practice#agent#skill
 - [在 AI 时代，如何从 0 接手一个项目？](https://www.cnblogs.com/Li-runqing/p/20008588/takeover-project-in-ai-era) #setup#guide
