@@ -1,3 +1,4 @@
+- [把 LLM 当成“人”，才是 Agent 工程进阶的起点](https://blog.hikarilan.life/thinking/3499/treating-llms-as-humans/) #agent
 - ["People who don't use AI will be left behind"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/) #life
 - [I Left Port 22 Open for 54 Days: An SSH Honeypot Study](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up) #reading
 - [用 LLM 管理安全开发规范](http://lichuanyang.top/posts/88001/) #engineering#agent#setup
