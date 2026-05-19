@@ -1,3 +1,4 @@
+- [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) #lesson#project
 - [The 20 Software Engineering Laws](https://newsletter.techworld-with-milan.com/p/the-20-software-engineering-laws) #best-practice#engineering
 - [把 LLM 当成“人”，才是 Agent 工程进阶的起点](https://blog.hikarilan.life/thinking/3499/treating-llms-as-humans/) #agent
 - ["People who don't use AI will be left behind"](https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/) #life
