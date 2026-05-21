@@ -1,3 +1,4 @@
+- [AI 编码胜率榜：Go 与 Rust 完胜 C++](https://tonybai.com/2026/05/20/ai-coding-win-rate-rankings-go-and-rust-vs-cpp/) #news#engineering
 - [进化的SKILL库 · SUMSEC ](https://sumsec.me/2026/why-personal-agent-skills-repo.html) #skill#best-practice#design
 - [我们免费写的字，平台拿去卖给了谁](https://dongjunke.cn/posts/2026/05/20/48180.html) #view
 - [Why senior developers fail to communicate their expertise](https://nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
