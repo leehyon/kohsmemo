@@ -1,3 +1,4 @@
+- [我们免费写的字，平台拿去卖给了谁](https://dongjunke.cn/posts/2026/05/20/48180.html) #view
 - [Why senior developers fail to communicate their expertise](https://nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise)
 - [My GitHub Graveyard has 27 dead projects. Here is the brutal truth about why](https://dev.to/tahosin/my-github-graveyard-has-27-dead-projects-here-is-the-brutal-truth-about-why-52d9) #lesson#project
 - [The 20 Software Engineering Laws](https://newsletter.techworld-with-milan.com/p/the-20-software-engineering-laws) #best-practice#engineering
