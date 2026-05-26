@@ -1,3 +1,4 @@
+- [Beyond SOLID: Embracing CUPID for Modern Software](https://dzone.com/articles/beyond-solid-embracing-cupid-for-modern-software) #design#engineering
 - [Learn agentic AI in Python with 10 small exercises](https://belderbos.dev/blog/learn-agentic-ai-python-10-step-journey/) #agent#education
 - [4 First Principles of Token Economics in 2026](https://age-of-product.com/token-economics-2026/) #agent#advice
 - [Passwords suck. Can passkeys replace them?](https://kerkour.com/passkeys) #guide
