@@ -1,3 +1,4 @@
+- [第一性原理读书笔记](https://xiaozhou.net/book-notes-of-first-principles-2026-05-26.html) #blog#reading
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) #agent#view
 - [Beyond SOLID: Embracing CUPID for Modern Software](https://dzone.com/articles/beyond-solid-embracing-cupid-for-modern-software) #design#engineering
 - [Learn agentic AI in Python with 10 small exercises](https://belderbos.dev/blog/learn-agentic-ai-python-10-step-journey/) #agent#education
