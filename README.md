@@ -1,3 +1,4 @@
+- [How to Stay Resilient in a Difficult Job](https://andiroberts.com/executive-coaching/how-to-stay-resilient-in-a-difficult-job) #advice#view
 - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) #writing#home
 - [第一性原理读书笔记](https://xiaozhou.net/book-notes-of-first-principles-2026-05-26.html) #blog#reading
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) #agent#view
