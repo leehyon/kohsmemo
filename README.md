@@ -1,3 +1,4 @@
+- [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/) #writing#home
 - [第一性原理读书笔记](https://xiaozhou.net/book-notes-of-first-principles-2026-05-26.html) #blog#reading
 - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real) #agent#view
 - [Beyond SOLID: Embracing CUPID for Modern Software](https://dzone.com/articles/beyond-solid-embracing-cupid-for-modern-software) #design#engineering
