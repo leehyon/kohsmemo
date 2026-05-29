@@ -1,3 +1,4 @@
+- [Harness 的尽头不是缰绳，是镜子](https://www.bestblogs.dev/en/article/ca8b7a56) #agent#view#engineering
 - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/) #reading
 - [How to one-on-one](https://ben.balter.com/2026/04/27/one-on-one-playbook/) #advice#career
 - [How to Stay Resilient in a Difficult Job](https://andiroberts.com/executive-coaching/how-to-stay-resilient-in-a-difficult-job) #advice#view
