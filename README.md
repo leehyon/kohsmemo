@@ -1,3 +1,4 @@
+- [写代码快 10 倍，不等于研发快 10 倍！Google 揭秘 AI 系统级瓶颈](https://tonybai.com/2026/06/01/coding-10x-faster-isnt-10x-development-speed-google-ai-bottleneck/) #agent#engineering#view
 - [Harness 的尽头不是缰绳，是镜子](https://www.bestblogs.dev/en/article/ca8b7a56) #agent#view#engineering
 - [The Math That Explains Why Bell Curves Are Everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/) #reading
 - [How to one-on-one](https://ben.balter.com/2026/04/27/one-on-one-playbook/) #advice#career
