@@ -1,3 +1,4 @@
+- [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #view
 - [Agent Skills](https://addyosmani.com/blog/agent-skills/) #agent
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes/) #engineering#career
 - [The modern formatting addiction in writing](https://dynomight.net/formatting/) #writing
