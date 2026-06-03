@@ -1,3 +1,4 @@
+- [Gathering Structures](https://maggieappleton.com/gathering-structures) #life
 - [先写 Skill 再执行](https://yage.ai/skill-first.html) #agent#skill#advice
 - [统计十讲](https://roriri.one/2026/05/29/stat-10-lec) #education
 - [Build agents, not pipelines](https://www.seangoedecke.com/build-agents-not-pipelines/) #agent#llm
