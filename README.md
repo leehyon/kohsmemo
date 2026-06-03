@@ -1,3 +1,4 @@
+- [AI Engineering for Developers](https://www.lucavall.in/blog/ai-engineering-for-developers) #engineering
 - [A harness for every task: dynamic workflows in Claude Code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code) #agent#engineering
 - [How to listen to understand](https://andiroberts.com/citizenship/listen-to-understand-citizenship-leadership) #life
 - [The Pulse: Forward deployed engineering heats up again](https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/) #career
