@@ -1,3 +1,4 @@
+- [统计十讲](https://roriri.one/2026/05/29/stat-10-lec) #education
 - [Build agents, not pipelines](https://www.seangoedecke.com/build-agents-not-pipelines/) #agent#llm
 - [The holes that kill you are the ones you never tested](https://jonno.nz/posts/the-holes-that-kill-you-are-the-ones-you-never-tested/) #engineering
 - [AI Engineering for Developers](https://www.lucavall.in/blog/ai-engineering-for-developers) #engineering
