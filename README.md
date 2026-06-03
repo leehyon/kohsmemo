@@ -1,3 +1,4 @@
+- [Staff archetypes](https://staffeng.com/guides/staff-archetypes/) #engineering#career
 - [The modern formatting addiction in writing](https://dynomight.net/formatting/) #writing
 - [Gathering Structures](https://maggieappleton.com/gathering-structures) #life
 - [先写 Skill 再执行](https://yage.ai/skill-first.html) #agent#skill#advice
