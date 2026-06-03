@@ -1,3 +1,4 @@
+- [The Orchestration Tax](https://addyosmani.com/blog/orchestration-tax/) #view#agent
 - [Prompts are technical debt too](https://www.seangoedecke.com/prompts-are-technical-debt-too/) #view
 - [How I use LLMs as a staff engineer in 2026](https://www.seangoedecke.com/how-i-use-llms-in-2026/) #llm#guide
 - [Most vibe-coded tools are not for you](https://passo.uno/tools-slop-is-a-problem/) #view#vibe-coding
