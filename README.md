@@ -1,3 +1,4 @@
+- [Most vibe-coded tools are not for you](https://passo.uno/tools-slop-is-a-problem/) #view#vibe-coding
 - [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #view
 - [Agent Skills](https://addyosmani.com/blog/agent-skills/) #agent
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes/) #engineering#career
