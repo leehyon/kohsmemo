@@ -1,3 +1,4 @@
+- [How to listen to understand](https://andiroberts.com/citizenship/listen-to-understand-citizenship-leadership) #life
 - [The Pulse: Forward deployed engineering heats up again](https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/) #career
 - [写代码快 10 倍，不等于研发快 10 倍！Google 揭秘 AI 系统级瓶颈](https://tonybai.com/2026/06/01/coding-10x-faster-isnt-10x-development-speed-google-ai-bottleneck/) #agent#engineering#view
 - [Harness 的尽头不是缰绳，是镜子](https://www.bestblogs.dev/en/article/ca8b7a56) #agent#view#engineering
