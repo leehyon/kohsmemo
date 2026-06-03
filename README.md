@@ -1,3 +1,4 @@
+- [Build agents, not pipelines](https://www.seangoedecke.com/build-agents-not-pipelines/) #agent#llm
 - [The holes that kill you are the ones you never tested](https://jonno.nz/posts/the-holes-that-kill-you-are-the-ones-you-never-tested/) #engineering
 - [AI Engineering for Developers](https://www.lucavall.in/blog/ai-engineering-for-developers) #engineering
 - [A harness for every task: dynamic workflows in Claude Code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code) #agent#engineering
