@@ -1,3 +1,4 @@
+- [为何写作](https://www.kawabangga.com/posts/7288) #writing
 - [Running an AI-native engineering org](https://claude.com/blog/running-an-ai-native-engineering-org) #engineering
 - [The Orchestration Tax](https://addyosmani.com/blog/orchestration-tax/) #view#agent
 - [Prompts are technical debt too](https://www.seangoedecke.com/prompts-are-technical-debt-too/) #view
