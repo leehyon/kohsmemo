@@ -1,3 +1,4 @@
+- [AI 软件工程范式革命的思考](https://cloud.tencent.com/developer/article/2680831) #agent#engineering
 - [和产品一起成长 - 从 AI 猫娘到 Prowl 终端](https://onevcat.com/2026/06/develop-with-ai/) #agent#product
 - [Vibe Coding Is Not Engineering](https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html) #agent#engineering
 - [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) #view
