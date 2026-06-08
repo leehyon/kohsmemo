@@ -1,3 +1,4 @@
+- [Prompts are technical debt too](https://www.seangoedecke.com/prompts-are-technical-debt-too/) #agent#view
 - [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #engineering
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) #llm
 - [The big ideas behind retrieval augmented generation](https://www.elastic.co/blog/retrieval-augmented-generation-explained) #tombstone
