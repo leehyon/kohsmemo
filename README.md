@@ -1,3 +1,4 @@
+- [The big ideas behind retrieval augmented generation](https://www.elastic.co/blog/retrieval-augmented-generation-explained) #tombstone
 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/) #engineering#physics
 - [The Magic of Simplicity: Energizing Design Thinking Workshops](https://spin.atomicobject.com/simplicity-design-thinking/) #career#view
 - [Jonas Hietala: Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/) #writing#view
