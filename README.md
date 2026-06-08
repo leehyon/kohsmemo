@@ -1,3 +1,4 @@
+- [There’s no emotion we ought to think harder about than anger](https://aeon.co/essays/there-s-no-emotion-we-ought-to-think-harder-about-than-anger) #life
 - [Prompts are technical debt too](https://www.seangoedecke.com/prompts-are-technical-debt-too/) #agent#view
 - [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #engineering
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) #llm
