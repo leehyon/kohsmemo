@@ -1,3 +1,4 @@
+- [The big ideas behind retrieval augmented generation](https://www.elastic.co/blog/retrieval-augmented-generation-explained) #rag#llm
 - [Default blind](https://blog.sbensu.com/posts/default-blind/) #life
 - [Nobody Cares](https://grantslatton.com/nobody-cares) #life#design#view
 - [I Ditched the Algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/) #life
