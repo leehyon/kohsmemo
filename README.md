@@ -1,3 +1,4 @@
+- [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html) #engineering#design#blog
 - [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring) #engineering#design
 - [The big ideas behind retrieval augmented generation](https://www.elastic.co/blog/retrieval-augmented-generation-explained) #rag#llm
 - [Default blind](https://blog.sbensu.com/posts/default-blind/) #life
