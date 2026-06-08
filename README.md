@@ -1,3 +1,4 @@
+- [Smart core, thin interfaces](https://swizec.com/blog/smart-core-thin-interfaces/) #engineering
 - [The Life Well-Lived, part 2](https://blog.rootsofprogress.org/thm-ch4-the-life-well-lived-part-2) #life
 - [The Life Well-Lived, part 2](https://blog.rootsofprogress.org/thm-ch4-the-life-well-lived-part-2) #life
 - [Smart core, thin interfaces](https://swizec.com/blog/smart-core-thin-interfaces/) #engineering
