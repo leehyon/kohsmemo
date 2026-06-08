@@ -1,3 +1,4 @@
+- [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
 - [Reverse mode Automatic Differentiation](https://eli.thegreenplace.net/2025/reverse-mode-automatic-differentiation/) #math
 - [The 10-Step Checklist for Continuous Delivery](https://semaphore.io/blog/continuous-delivery-checklist)
 - [Don't use cosine similarity carelessly](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/) #math#llm#llm
