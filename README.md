@@ -1,3 +1,4 @@
+- [Default blind](https://blog.sbensu.com/posts/default-blind/) #life
 - [Nobody Cares](https://grantslatton.com/nobody-cares) #life#design#view
 - [I Ditched the Algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/) #life
 - [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) #agent#design
