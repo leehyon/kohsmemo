@@ -1,3 +1,4 @@
+- [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html) #view
 - [你不知道的具身智能：从小机器狗到 Optimus](https://tw93.fun/2026-06-07/robot.html) #agent#robotics
 - [AI 软件工程范式革命的思考](https://cloud.tencent.com/developer/article/2680831) #agent#engineering
 - [和产品一起成长 - 从 AI 猫娘到 Prowl 终端](https://onevcat.com/2026/06/develop-with-ai/) #agent#product
