@@ -1,3 +1,4 @@
+- [和产品一起成长 - 从 AI 猫娘到 Prowl 终端](https://onevcat.com/2026/06/develop-with-ai/) #agent#product
 - [Vibe Coding Is Not Engineering](https://phroneses.com/articles/build/notes/vibe-coding-is-not-engineering.html) #agent#engineering
 - [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/) #view
 - [为何写作](https://www.kawabangga.com/posts/7288) #writing
