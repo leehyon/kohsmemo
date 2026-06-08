@@ -1,3 +1,4 @@
+- [Jonas Hietala: Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/) #writing#view
 - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html) #engineering#design#blog
 - [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring) #engineering#design
 - [The big ideas behind retrieval augmented generation](https://www.elastic.co/blog/retrieval-augmented-generation-explained) #rag#llm
