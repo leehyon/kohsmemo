@@ -1,3 +1,4 @@
+- [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/) #design
 - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) #llm
 - [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
 - [Reverse mode Automatic Differentiation](https://eli.thegreenplace.net/2025/reverse-mode-automatic-differentiation/) #math
