@@ -1,3 +1,4 @@
+- [You should keep a developer’s journal](https://stackoverflow.blog/2024/12/24/you-should-keep-a-developer-s-journal/) #blog
 - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/) #design
 - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) #llm
 - [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
