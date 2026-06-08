@@ -1,3 +1,4 @@
+- [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #engineering
 - [2025 LLM Year in Review](https://karpathy.bearblog.dev/year-in-review-2025/) #llm
 - [The big ideas behind retrieval augmented generation](https://www.elastic.co/blog/retrieval-augmented-generation-explained) #tombstone
 - [On the Nature of Time](https://writings.stephenwolfram.com/2024/10/on-the-nature-of-time/) #engineering#physics
