@@ -1,3 +1,4 @@
+- [Nobody Cares](https://grantslatton.com/nobody-cares) #life#design#view
 - [I Ditched the Algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/) #life
 - [Emerging Patterns in Building GenAI Products](https://martinfowler.com/articles/gen-ai-patterns/) #agent#design
 - [There’s no emotion we ought to think harder about than anger](https://aeon.co/essays/there-s-no-emotion-we-ought-to-think-harder-about-than-anger) #life
