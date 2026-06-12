@@ -1,3 +1,4 @@
+- [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/) #llm#guide#math
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career
 - [Loop Engineering](https://addyosmani.com/blog/loop-engineering/) #engineering
 - [Working with product managers](https://www.seangoedecke.com/working-with-product-managers/) #engineering#product#career
