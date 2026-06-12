@@ -1,3 +1,4 @@
+- [Working with product managers](https://www.seangoedecke.com/working-with-product-managers/) #engineering#product#career
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/) #engineering#view
 - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) #career#engineering
 - [构建 Claude Code 的经验：我们如何使用 Skills](https://transcrab.onev.cat/a/2026/03/lessons-from-building-claude-code-how-we-use-skills/) #agent#skill#best-practice
