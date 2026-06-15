@@ -1,3 +1,4 @@
+- [We All Hate Meetings](https://hbr.org/podcast/2026/06/we-all-hate-meetings-heres-how-to-make-them-work) #efficiency
 - [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/) #llm#guide#math
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career
 - [Loop Engineering](https://addyosmani.com/blog/loop-engineering/) #engineering
