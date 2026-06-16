@@ -1,3 +1,4 @@
+- [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) #agent
 - [AI Agent时代，普通人的避坑指南！](https://lukefan.com/2026/06/16/ai-agent-engineering-workflow-mindset/) #engineering#agent#view
 - [We All Hate Meetings](https://hbr.org/podcast/2026/06/we-all-hate-meetings-heres-how-to-make-them-work) #efficiency
 - [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/) #llm#guide#math
