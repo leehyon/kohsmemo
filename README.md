@@ -1,3 +1,4 @@
+- [关于 Vibe Coding 如何提升代码效率和质量的技巧之 Skill](https://www.bestblogs.dev/en/article/d8d0cca6) #agent#skill
 - [Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html) #agent
 - [Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/) #agent
 - [AI Agent时代，普通人的避坑指南！](https://lukefan.com/2026/06/16/ai-agent-engineering-workflow-mindset/) #engineering#agent#view
