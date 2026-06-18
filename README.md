@@ -1,3 +1,4 @@
+- [The Art of Loop Engineering](https://www.langchain.com/blog/the-art-of-loop-engineering) #agent#engineering
 - [Node-js 新手需要知道什么](https://www.ccgxk.com/front-end/781.html) #guide
 - [关于 Vibe Coding 如何提升代码效率和质量的技巧之 Skill](https://www.bestblogs.dev/en/article/d8d0cca6) #agent#skill
 - [Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html) #agent
