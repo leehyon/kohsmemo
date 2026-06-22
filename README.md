@@ -1,3 +1,4 @@
+- [我的 Logseq 使用实践](https://usmacd.com/cn/logseq_practice/index.html) #writing#setup
 - [多智能体系统](https://leovan.me/cn/2026/06/multi-agent-system/) #agent
 - [The Art of Loop Engineering](https://www.langchain.com/blog/the-art-of-loop-engineering) #agent#engineering
 - [Node-js 新手需要知道什么](https://www.ccgxk.com/front-end/781.html) #guide
