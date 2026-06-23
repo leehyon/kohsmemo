@@ -1,3 +1,4 @@
+- [你不知道的 AI Coding：非技术人的上手、场景与实战](https://tw93.fun/2026-04-26/ai-coding.html) #agent#guide
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career#engineering
 - [Notes on the Industry Job Search](https://alisawuffles.github.io/blog/job-search/) #career#advice
 - [如何写好设计文档](https://colobu.com/2026/06/23/2026-06-23-how-to-write-design-doc/) #design#writing
