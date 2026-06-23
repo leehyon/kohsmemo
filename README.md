@@ -1,3 +1,4 @@
+- [拯救呼吸大作战](https://roriri.one/2026/06/21/save-my-breath) #life
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career#engineering
 - [你不知道的 AI Coding：非技术人的上手、场景与实战](https://tw93.fun/2026-04-26/ai-coding.html) #agent#guide
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career#engineering
