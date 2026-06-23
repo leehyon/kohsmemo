@@ -1,3 +1,4 @@
+- [如何写好设计文档](https://colobu.com/2026/06/23/2026-06-23-how-to-write-design-doc/) #design#writing
 - [我的 Logseq 使用实践](https://usmacd.com/cn/logseq_practice/index.html) #writing#setup
 - [多智能体系统](https://leovan.me/cn/2026/06/multi-agent-system/) #agent
 - [The Art of Loop Engineering](https://www.langchain.com/blog/the-art-of-loop-engineering) #agent#engineering
