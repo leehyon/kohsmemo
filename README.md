@@ -1,3 +1,4 @@
+- [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) #agent#guide
 - [node_modules 为什么总是这么大](https://wocai.de/post/2026/06/reduce-node-modules-size-with-pnpm/) #guide#web
 - [拯救呼吸大作战](https://roriri.one/2026/06/21/save-my-breath) #life
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career#engineering
