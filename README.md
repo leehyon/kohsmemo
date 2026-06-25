@@ -1,3 +1,4 @@
+- [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) #agent#engineering
 - [Riding Technology Waves](https://staysaasy.com/strategy/2026/06/22/riding-technology-waves.html) #engineering
 - [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) #agent#guide
 - [node_modules 为什么总是这么大](https://wocai.de/post/2026/06/reduce-node-modules-size-with-pnpm/) #guide#web
