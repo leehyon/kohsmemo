@@ -1,3 +1,4 @@
+- [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php) #view#guide
 - [The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/) #agent#engineering
 - [Riding Technology Waves](https://staysaasy.com/strategy/2026/06/22/riding-technology-waves.html) #engineering
 - [我的 AI Coding Guide](https://www.ixiqin.com/2026/06/24/my-ai-coding-guide/) #agent#guide
