@@ -1,3 +1,4 @@
+- [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) #workflow#vibe-coding
 - [My Current AI Dev Workflow](https://steipete.me/posts/2025/optimal-ai-development-workflow) #workflow#agent
 - [The control layer is the product, not the model](https://belderbos.dev/blog/control-layer-is-the-product/) #agent
 - [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php) #view#guide
