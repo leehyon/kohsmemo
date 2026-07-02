@@ -1,3 +1,4 @@
+- [Setting Up and Using the Pi Coding Agent](https://deepakness.com/blog/pi-agent-setup/) #agent#setup
 - [I built a private ChatGPT for my family](https://fulghum.io/family-chatgpt) #home#setup
 - [你不知道的 Agent：原理、架构与工程实践](https://tw93.fun/2026-03-21/agent.html) #agent#design
 - [Just Talk To It - the no-bs Way of Agentic Engineering](https://steipete.me/posts/just-talk-to-it) #agent#workflow
