@@ -1,3 +1,4 @@
+- [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/) #design
 - [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/) #design
 - [时间带来的安全](https://xdym11235.com/archives/333.html) #algorithm
 - [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) #trade
