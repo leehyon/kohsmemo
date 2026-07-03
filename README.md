@@ -1,3 +1,4 @@
+- [十幾年的 Evernote 筆記沒白寫，AI Agent 第二大腦](https://raymondhouch.com/lifehacker/guide/esor-ai-agent-interview/) #agent#writing
 - [Setting Up and Using the Pi Coding Agent](https://deepakness.com/blog/pi-agent-setup/) #agent#setup
 - [I built a private ChatGPT for my family](https://fulghum.io/family-chatgpt) #home#setup
 - [你不知道的 Agent：原理、架构与工程实践](https://tw93.fun/2026-03-21/agent.html) #agent#design
