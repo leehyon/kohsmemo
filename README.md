@@ -1,3 +1,4 @@
+- [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) #trade
 - [十幾年的 Evernote 筆記沒白寫，AI Agent 第二大腦](https://raymondhouch.com/lifehacker/guide/esor-ai-agent-interview/) #agent#writing
 - [Setting Up and Using the Pi Coding Agent](https://deepakness.com/blog/pi-agent-setup/) #agent#setup
 - [I built a private ChatGPT for my family](https://fulghum.io/family-chatgpt) #home#setup
