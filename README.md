@@ -1,3 +1,4 @@
+- [Why I Stopped Arguing With People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) #life#view
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/) #design
 - [Design Patterns Suck](https://luminousmen.com/post/design-patterns-suck/) #design
 - [时间带来的安全](https://xdym11235.com/archives/333.html) #algorithm
