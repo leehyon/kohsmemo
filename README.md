@@ -1,3 +1,4 @@
+- [Everything I know about running LLMs locally](https://github.com/jamesob/local-llm) #setup
 - [当编程变得不再有趣](https://onevcat.com/2026/07/coding-not-funny-anymore/) #agent#view
 - [Why I Stopped Arguing With People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html) #life#view
 - [Everything I know about good API design](https://www.seangoedecke.com/good-api-design/) #design
