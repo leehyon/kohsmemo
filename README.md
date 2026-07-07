@@ -1,3 +1,4 @@
+- [From “Reasoning” Thinking to “Agentic” Thinking](https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/) #agent#design
 - [From “Reasoning” Thinking to “Agentic” Thinking](https://x.com/JustinLin610/status/2037116325210829168) #agent#design
 - [Vibe Coding 时代的角色与架构](https://roriri.one/2026/07/04/vibe-coding) #agent#vibe-coding
 - [Everything I know about running LLMs locally](https://github.com/jamesob/local-llm) #setup
