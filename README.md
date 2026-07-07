@@ -1,3 +1,4 @@
+- [From “Reasoning” Thinking to “Agentic” Thinking](https://x.com/JustinLin610/status/2037116325210829168) #agent#design
 - [Vibe Coding 时代的角色与架构](https://roriri.one/2026/07/04/vibe-coding) #agent#vibe-coding
 - [Everything I know about running LLMs locally](https://github.com/jamesob/local-llm) #setup
 - [当编程变得不再有趣](https://onevcat.com/2026/07/coding-not-funny-anymore/) #agent#view
