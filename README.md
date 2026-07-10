@@ -1,3 +1,4 @@
+- [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/) #best-practice
 - [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007) #career#math
 - [这四个工作习惯，或许也能帮你找到掌控感](https://sspai.com/post/111708) #career#life
 - [From “Reasoning” Thinking to “Agentic” Thinking](https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/) #agent#design
