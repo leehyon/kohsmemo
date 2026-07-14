@@ -1,3 +1,4 @@
+- [Why write code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code) #agent#vibe-coding#view
 - [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) #reading
 - [So You Want to Learn Physics…](https://www.susanrigetti.com/physics) #physics
 - [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/) #best-practice
