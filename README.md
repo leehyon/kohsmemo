@@ -1,3 +1,4 @@
+- [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) #reading
 - [So You Want to Learn Physics…](https://www.susanrigetti.com/physics) #physics
 - [The Git Commands I Run Before Reading Any Code](https://piechowski.io/post/git-commands-before-reading-code/) #best-practice
 - [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007) #career#math
