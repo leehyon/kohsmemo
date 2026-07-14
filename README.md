@@ -1,3 +1,4 @@
+- [Don't you mean extinct?](https://fabiensanglard.net/extinct/index.html) #agent#view
 - [Why write code in 2026](https://softwaredoug.com/blog/2026/07/09/write-code) #agent#vibe-coding#view
 - [How to read more books](https://scotto.me/blog/2026-07-12-how-to-read-more-books/) #reading
 - [So You Want to Learn Physics…](https://www.susanrigetti.com/physics) #physics
