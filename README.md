@@ -1,3 +1,4 @@
+- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) #agent#design#product
 - [htop explained](https://peteris.rocks/blog/htop/) #explained
 - [Docker Build Cache: The 80/20 Rules That Cut CI Image Builds From Minutes to Seconds](https://the-practical-developer.online/posts/docker-layer-caching-ci-build-speed/) #build#guide
 - [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
