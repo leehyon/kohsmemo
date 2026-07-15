@@ -1,3 +1,4 @@
+- [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) #trade
 - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) #agent#design#product
 - [htop explained](https://peteris.rocks/blog/htop/) #explained
 - [Docker Build Cache: The 80/20 Rules That Cut CI Image Builds From Minutes to Seconds](https://the-practical-developer.online/posts/docker-layer-caching-ci-build-speed/) #build#guide
