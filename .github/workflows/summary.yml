@@ -40,9 +40,9 @@ jobs:
 
     - name: Process changes
       env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        OPENAI_API_MODEL: ${{ vars.OPENAI_API_MODEL }}
-        OPENAI_API_ENDPOINT: ${{ vars.OPENAI_API_ENDPOINT }}
+        LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        LLM_MODEL: ${{ vars.LLM_MODEL }}
+        LLM_API_ENDPOINT: ${{ vars.LLM_API_ENDPOINT }}
       run: |
         python kohsmemo-summary/process_changes.py
 
