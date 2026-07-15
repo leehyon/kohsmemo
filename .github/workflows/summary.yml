@@ -26,7 +26,7 @@ jobs:
       with:
         repository: leehyon/kohsmemo-summary
         path: kohsmemo-summary
-        token: ${{ secrets.PAT }}
+        token: ${{ secrets.SUMMARY_SYNC_PAT }}
 
     - name: Set up Python
       uses: actions/setup-python@v2

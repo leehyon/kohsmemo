@@ -1,4 +1,3 @@
-- [用交易平台风控设置改掉逆市加仓这个坏习惯](https://blog.forecho.com/platform-risk-settings-stop-revenge-trading.html) #trade
 - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) #agent#design#product
 - [htop explained](https://peteris.rocks/blog/htop/) #explained
 - [Docker Build Cache: The 80/20 Rules That Cut CI Image Builds From Minutes to Seconds](https://the-practical-developer.online/posts/docker-layer-caching-ci-build-speed/) #build#guide
@@ -36,7 +35,6 @@
 - [拯救呼吸大作战](https://roriri.one/2026/06/21/save-my-breath) #life
 - [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career#engineering
 - [你不知道的 AI Coding：非技术人的上手、场景与实战](https://tw93.fun/2026-04-26/ai-coding.html) #agent#guide
-- [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career#engineering
 - [Notes on the Industry Job Search](https://alisawuffles.github.io/blog/job-search/) #career#advice
 - [如何写好设计文档](https://colobu.com/2026/06/23/2026-06-23-how-to-write-design-doc/) #design#writing
 - [我的 Logseq 使用实践](https://usmacd.com/cn/logseq_practice/index.html) #writing#setup
@@ -49,7 +47,6 @@
 - [AI Agent时代，普通人的避坑指南！](https://lukefan.com/2026/06/16/ai-agent-engineering-workflow-mindset/) #engineering#agent#view
 - [We All Hate Meetings](https://hbr.org/podcast/2026/06/we-all-hate-meetings-heres-how-to-make-them-work) #efficiency
 - [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/) #llm#guide#math
-- [Doing nothing at work](https://www.seangoedecke.com/doing-nothing-at-work/) #career
 - [Loop Engineering](https://addyosmani.com/blog/loop-engineering/) #engineering
 - [Working with product managers](https://www.seangoedecke.com/working-with-product-managers/) #engineering#product#career
 - [The Software Development Lifecycle Is Dead](https://boristane.com/blog/the-software-development-lifecycle-is-dead/) #engineering#view
@@ -60,10 +57,7 @@
 - [You should keep a developer’s journal ](https://stackoverflow.blog/2024/12/24/you-should-keep-a-developer-s-journal/) #writing
 - [Smart core, thin interfaces](https://swizec.com/blog/smart-core-thin-interfaces/) #engineering
 - [The Life Well-Lived, part 2](https://blog.rootsofprogress.org/thm-ch4-the-life-well-lived-part-2) #life
-- [The Life Well-Lived, part 2](https://blog.rootsofprogress.org/thm-ch4-the-life-well-lived-part-2) #life
-- [Smart core, thin interfaces](https://swizec.com/blog/smart-core-thin-interfaces/) #engineering
 - [Stop talking about work – do work together instead](https://www.atlassian.com/blog/productivity/gsd-sessions-for-productive-team-meetings)
-- [You should keep a developer’s journal](https://stackoverflow.blog/2024/12/24/you-should-keep-a-developer-s-journal/) #blog
 - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/) #design
 - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) #llm
 - [The illustrated guide to a Ph.D.](https://matt.might.net/articles/phd-school-in-pictures/?_nospa=true)
@@ -80,7 +74,6 @@
 - [Jonas Hietala: Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/) #writing#view
 - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html) #engineering#design#blog
 - [Good Refactoring vs Bad Refactoring](https://www.builder.io/blog/good-vs-bad-refactoring) #engineering#design
-- [The big ideas behind retrieval augmented generation](https://www.elastic.co/blog/retrieval-augmented-generation-explained) #rag#llm
 - [Default blind](https://blog.sbensu.com/posts/default-blind/) #life
 - [Nobody Cares](https://grantslatton.com/nobody-cares) #life#design#view
 - [I Ditched the Algorithm for RSS](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/) #life
@@ -94,10 +87,8 @@
 - [为何写作](https://www.kawabangga.com/posts/7288) #writing
 - [Running an AI-native engineering org](https://claude.com/blog/running-an-ai-native-engineering-org) #engineering
 - [The Orchestration Tax](https://addyosmani.com/blog/orchestration-tax/) #view#agent
-- [Prompts are technical debt too](https://www.seangoedecke.com/prompts-are-technical-debt-too/) #view
 - [How I use LLMs as a staff engineer in 2026](https://www.seangoedecke.com/how-i-use-llms-in-2026/) #llm#guide
 - [Most vibe-coded tools are not for you](https://passo.uno/tools-slop-is-a-problem/) #view#vibe-coding
-- [Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/) #view
 - [Agent Skills](https://addyosmani.com/blog/agent-skills/) #agent
 - [Staff archetypes](https://staffeng.com/guides/staff-archetypes/) #engineering#career
 - [The modern formatting addiction in writing](https://dynomight.net/formatting/) #writing
@@ -238,14 +229,12 @@
 - [The Thing I Loved Has Changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/) #career
 - [使用 GitHub Copilot 进行 Vibe Coding](https://www.bboy.app/2026/03/16/%E4%BD%BF%E7%94%A8github-copilot%E8%BF%9B%E8%A1%8Cvibe-coding/) #agent#vibe-coding
 - [To get better at technical writing, lower your expectations](https://www.seangoedecke.com/technical-communication/) #writing
-- [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html) #dev
 - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/) #career
 - [Intermediate Developer](https://dawranliou.com/blog/intermediate-dev/) #career
 - [Becoming unblockable](https://www.seangoedecke.com/unblockable/) #career
 - [Own A Graph](https://staysaasy.com/strategy/2025/11/26/own-a-graph.html) #career
 - [Context plumbing](https://interconnected.org/home/2025/11/28/plumbing) #agent
 - [Stop Over-thinking AI Subscriptions](https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions) #agent#life
-- [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/) #career
 - [A pragmatic guide to LLM evals for devs](https://newsletter.pragmaticengineer.com/p/evals) #guide#llm
 - [They have to be able to talk about us without us](https://anildash.com/2025/12/05/talk-about-us-without-us/) #life
 - [Writing a good CLAUDE.md](https://www.humanlayer.dev/blog/writing-a-good-claude-md) #agent
@@ -265,7 +254,6 @@
 - [我的退休计划：把无期变成有期](https://www.bmpi.dev/self/my-retirement-plan/) #life
 - [家庭网络环境改造](https://tubetrue01.github.io/articles/2023/09/13/entertainment/%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%94%B9%E9%80%A0/) #home#web#setup
 - [Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/) #agent#advice
-- [Personal Infrastructure Setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/) #home#setup
 - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/) #career
 - [Just Write](https://www.rugu.dev/en/blog/write/) #life
 
