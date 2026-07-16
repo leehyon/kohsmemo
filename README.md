@@ -1,3 +1,4 @@
+- [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/) #agent
 - [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) #agent
 - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) #engineering
 - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) #agent#design#product
