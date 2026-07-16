@@ -9,29 +9,35 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: mygroup
+  group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: false
+
+permissions:
+  contents: read
 
 jobs:
   summarize:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout kohsmemo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
+        fetch-depth: 0
         path: kohsmemo
 
     - name: Checkout kohsmemo-summary
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
       with:
         repository: leehyon/kohsmemo-summary
+        ref: main
         path: kohsmemo-summary
         token: ${{ secrets.SUMMARY_SYNC_PAT }}
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.12'
+        cache: pip
     
     - name: Install dependencies
       run: |

@@ -1,3 +1,5 @@
+- [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) #agent
+- [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) #engineering
 - [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) #agent#design#product
 - [htop explained](https://peteris.rocks/blog/htop/) #explained
 - [Docker Build Cache: The 80/20 Rules That Cut CI Image Builds From Minutes to Seconds](https://the-practical-developer.online/posts/docker-layer-caching-ci-build-speed/) #build#guide
@@ -10,7 +12,6 @@
 - [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007) #career#math
 - [这四个工作习惯，或许也能帮你找到掌控感](https://sspai.com/post/111708) #career#life
 - [From “Reasoning” Thinking to “Agentic” Thinking](https://arthurchiao.art/blog/from-reasoning-thinking-to-agentic-thinking-zh/) #agent#design
-- [From “Reasoning” Thinking to “Agentic” Thinking](https://x.com/JustinLin610/status/2037116325210829168) #agent#design
 - [Vibe Coding 时代的角色与架构](https://roriri.one/2026/07/04/vibe-coding) #agent#vibe-coding
 - [Everything I know about running LLMs locally](https://github.com/jamesob/local-llm) #setup
 - [当编程变得不再有趣](https://onevcat.com/2026/07/coding-not-funny-anymore/) #agent#view
