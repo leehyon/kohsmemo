@@ -1,3 +1,4 @@
+- [Notes on the Industry Job Search](https://alisawuffles.github.io/blog/job-search/) #career
 - [ML Job Interviews: The Ultimate Guide](https://silviasapora.github.io/blog/ml-interviews.html) #career
 - [我让 AI 复盘日记：挖掘隐藏线索，避免自我内耗](https://whyya.xyz/posts/20260716-diary-analysis-assistant) #life
 - [Stop Naming Your Variables "Flag": The Art of Boolean Prefixes ](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/) #design
