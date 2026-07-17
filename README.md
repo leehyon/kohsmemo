@@ -1,3 +1,4 @@
+- [我让 AI 复盘日记：挖掘隐藏线索，避免自我内耗](https://whyya.xyz/posts/20260716-diary-analysis-assistant) #life
 - [Stop Naming Your Variables "Flag": The Art of Boolean Prefixes ](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/) #design
 - [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/) #agent
 - [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) #agent
