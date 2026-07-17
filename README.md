@@ -1,3 +1,4 @@
+- [Stop Naming Your Variables "Flag": The Art of Boolean Prefixes ](https://thatamazingprogrammer.com/posts/stop-naming-your-variables-flag-the-art-of-boolean-prefixes/) #design
 - [Superpowers 6](https://blog.fsck.com/2026/06/15/Superpowers-6/) #agent
 - [Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/) #agent
 - [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) #engineering
