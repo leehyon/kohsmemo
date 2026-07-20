@@ -1,3 +1,4 @@
+- [当 AI 越来越像你，你也在越来越像 AI](https://sjdhome.com/posts/ai-assimilation/) #agent#life#view
 - [小象超市鮮啤簡評](https://taxodium.ink/xiaoxiang-supermarket-fresh-beer-review.html) #life
 - [Notes on the Industry Job Search](https://alisawuffles.github.io/blog/job-search/) #career
 - [ML Job Interviews: The Ultimate Guide](https://silviasapora.github.io/blog/ml-interviews.html) #career
