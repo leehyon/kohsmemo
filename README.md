@@ -1,3 +1,4 @@
+- [Who’s Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 - [Perfection is not over-engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html) #design#engineering
 - [当 AI 越来越像你，你也在越来越像 AI](https://sjdhome.com/posts/ai-assimilation/) #agent#life#view
 - [小象超市鮮啤簡評](https://taxodium.ink/xiaoxiang-supermarket-fresh-beer-review.html) #life
