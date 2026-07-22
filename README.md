@@ -1,3 +1,4 @@
+- [AI Didn’t Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/) #engineering
 - [Who’s Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 - [Perfection is not over-engineering](https://var0.xyz/posts/perfection-is-not-over-engineering.html) #design#engineering
 - [当 AI 越来越像你，你也在越来越像 AI](https://sjdhome.com/posts/ai-assimilation/) #agent#life#view
