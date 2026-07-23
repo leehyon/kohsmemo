@@ -1,3 +1,4 @@
+- [The Human-in-the-Loop is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired) #agent
 - [探索 AI 时代的人机协作](https://demochen.com/posts/20260722/) #agent#engineering
 - [AI Didn’t Make Programming Easier. It Just Made It Differently Difficult](https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/) #engineering
 - [Who’s Afraid of Chinese Models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
