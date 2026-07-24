@@ -1,3 +1,4 @@
+- [姚期智万字长文演讲！解析“ AI 研究的下一个层次”](https://www.myzaker.com/article/6a60252f8e9f094b4d106689) #agent#transcript
 - [构建 Claude Code 的经验：我们如何使用 Skills](https://transcrab.onev.cat/a/2026/07/lessons-from-building-claude-code-how-we-use-skills-2/) #agent#skill
 - [The Human-in-the-Loop is Tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired) #agent
 - [探索 AI 时代的人机协作](https://demochen.com/posts/20260722/) #agent#engineering
