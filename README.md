@@ -1,3 +1,4 @@
+- [A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/) #podcast
 - [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age/) #agent#engineering
 - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 - [Git exclude, a handy feature you might not know about ](http://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/) #guide
