@@ -1,3 +1,4 @@
+- [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age/) #agent#engineering
 - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 - [Git exclude, a handy feature you might not know about ](http://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/) #guide
 - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/) #guide
