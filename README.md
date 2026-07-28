@@ -1,3 +1,4 @@
+- [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/) #setup
 - [A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/) #podcast
 - [A scorecard for the AI age](https://openai.com/index/a-scorecard-for-the-ai-age/) #agent#engineering
 - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
