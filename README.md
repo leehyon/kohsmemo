@@ -1,3 +1,4 @@
+- [Substack writers, you need a website!](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) #writing
 - [calm technologies that excite me](https://abhi.now/blog/calm-technologies/) #life
 - [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/) #setup
 - [A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/) #podcast
