@@ -1,3 +1,4 @@
+- [Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html) #career
 - [Substack writers, you need a website!](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) #writing
 - [calm technologies that excite me](https://abhi.now/blog/calm-technologies/) #life
 - [You probably don't need Oh My Zsh](https://rushter.com/blog/zsh-shell/) #setup
