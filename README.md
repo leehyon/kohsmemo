@@ -1,3 +1,4 @@
+- [预测市场生态的项目为什么难做](https://smallyu.net/2026/08/09/预测市场生态的项目为什么难做/) #product
 - [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html) #engineering
 - [Write-Only Code](https://www.heavybit.com/library/article/write-only-code) #engineering#vibe-coding
 - [Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html) #career
