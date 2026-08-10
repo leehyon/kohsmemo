@@ -1,3 +1,4 @@
+- [How a Frontier Model Gets Built, Read from the Kimi K3 Report](https://towardsdatascience.com/how-a-frontier-model-gets-built-read-from-the-kimi-k3-report/) #agent
 - [对话李开复：小人物的机会，在哪里？](https://www.bestblogs.dev/en/article/e7e3f06f81) #career
 - [Agent 插件如何走向工程化](https://www.phodal.com/blog/agent-plugin-engineering/) #engineering#agent
 - [This CPO regrets that product management exists](https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management?showTranscript=true) #transcript
