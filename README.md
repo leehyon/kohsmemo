@@ -1,3 +1,4 @@
+- [This CPO regrets that product management exists](https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management?showTranscript=true) #transcript
 - [Open Weights and American AI Leadership](https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/)
 - [预测市场生态的项目为什么难做](https://smallyu.net/2026/08/09/预测市场生态的项目为什么难做/) #product
 - [The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html) #engineering
