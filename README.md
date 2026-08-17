@@ -1,3 +1,4 @@
+- [当三台 Mac mini 跑起大模型之后：从部署踩坑理解 Model Infra](https://luenci.com/en/posts/%E4%B8%89%E5%8F%B0-mac-mini-model-infra/) #setup
 - [AI 时代我的开发工作流：从踩坑复盘到多项目并行验证](https://innei.in/posts/tinkering/ai-era-dev-workflow-review-and-verify) #agent#workflow
 - [Elevators](https://john.fun/elevators)
 - [My server is a phone now](https://seg6.space/posts/phone-server/) #setup#home
