@@ -1,3 +1,4 @@
+- [Elevators](https://john.fun/elevators)
 - [My server is a phone now](https://seg6.space/posts/phone-server/) #setup#home
 - [Use Task Runners for Common Coding Tasks](https://hamvocke.com/blog/task-runners/) #efficiency
 - [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much](https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/) #agent
