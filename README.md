@@ -1,3 +1,4 @@
+- [Your Agentic Workflow's Cache Keepalive Costs 8x Too Much](https://blog.mempko.com/your-agentic-workflows-cache-keepalive-costs-8x-too-much-v2-the-interval-frontier/) #agent
 - [我是怎么用 Hermes 的](https://www.bboy.app/2026/08/11/%E6%88%91%E6%98%AF%E6%80%8E%E4%B9%88%E7%94%A8-hermes-%E7%9A%84/) #agent
 - [Pi, Minimal and Performant ](https://earendil.com/posts/pi-autoresearch-and-databricks/) #agent#benchmark
 - [How a Frontier Model Gets Built, Read from the Kimi K3 Report](https://towardsdatascience.com/how-a-frontier-model-gets-built-read-from-the-kimi-k3-report/) #agent
