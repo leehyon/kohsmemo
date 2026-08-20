@@ -1,3 +1,4 @@
+- [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) #agent#engineering#career
 - [Extensible Software in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/) #llm#agent
 - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/) #language
 - [聊一聊商业产品背后的定价逻辑](https://zxs.io/article/2210) #explained
