@@ -1,3 +1,4 @@
+- [The Same Side of the Table](https://staysaasy.com/the-same-side-of-the-table/) #career
 - [AI is removing the middle class of software engineering](https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html) #agent#engineering#career
 - [Extensible Software in the age of LLMs](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/) #llm#agent
 - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/) #language
