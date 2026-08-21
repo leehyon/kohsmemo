@@ -1,3 +1,4 @@
+- [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts) #career#agent
 - [How to keep thinking](https://www.seangoedecke.com/how-to-keep-thinking/) #view
 - [There are no lossless transformations of natural-language text](https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text) #agent#writing
 - [The Same Side of the Table](https://staysaasy.com/the-same-side-of-the-table/) #career
