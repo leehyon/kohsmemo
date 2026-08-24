@@ -1,3 +1,4 @@
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) #hardware#agent
 - [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) #agent#best-practice
 - [SQLite for Everything](https://joecode.com/2026-08-19-sqlite3/)
 - [PostgreSQL for Everything](https://www.raphaelbauer.com/posts/postgresql-everything/)
