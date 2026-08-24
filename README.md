@@ -1,3 +1,4 @@
+- [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) #agent#best-practice
 - [SQLite for Everything](https://joecode.com/2026-08-19-sqlite3/)
 - [PostgreSQL for Everything](https://www.raphaelbauer.com/posts/postgresql-everything/)
 - [Tabs, Spaces, Hand Tools, and Seat Belts](https://newsletter.powderworks.dev/p/tabs-spaces-hand-tools-and-seat-belts) #career#agent
