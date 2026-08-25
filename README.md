@@ -1,3 +1,4 @@
+- [我和 AI 共创了一套会自己生长的 Obsidian 知识库](https://zxs.io/article/2215) #note-taking#agent
 - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) #hardware#agent
 - [My agent.md to improve LLM-assisted code quality](https://fabiensanglard.net/agent.md/index.html) #agent#best-practice
 - [SQLite for Everything](https://joecode.com/2026-08-19-sqlite3/)
