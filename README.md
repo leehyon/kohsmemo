@@ -1,3 +1,4 @@
+- [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) #agent#explained
 - [轻松搭建飞牛音乐私人音乐库](https://chengpeiquan.com) #nas#setup
 - [我和 AI 共创了一套会自己生长的 Obsidian 知识库](https://zxs.io/article/2215) #note-taking#agent
 - [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/) #hardware#agent
