@@ -1,3 +1,4 @@
+- [Human judgment doesn't leave the software factory](https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/) #agent
 - [Parallel development without the headaches using Git worktree](https://barrd.dev/article/parallel-development-without-the-headaches-using-git-worktree/) #dev#setup
 - [My experience as a first time speaker](https://blog.guillheu.dev/articles/first-time-speaker/) #life
 - [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) #agent#explained
