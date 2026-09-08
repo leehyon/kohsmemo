@@ -1,3 +1,4 @@
+- [AI, tools and transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation) #agent#view
 - [How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/) #agent#explained
 - [You have to beat the models at something](https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/) #career#agent
 - [Human judgment doesn't leave the software factory](https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/) #agent
