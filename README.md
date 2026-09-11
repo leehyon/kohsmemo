@@ -1,3 +1,4 @@
+- [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown) #life
 - [Version control second coming](https://psantosl.github.io/posts/version-control-second-coming/) #engineering#product
 - [I'm sorry, you're not going to die from an AI-engineered supervirus](https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from) #agent
 - [近期开发的四个开源项目 | LiuShen's Blog](https://blog.liushen.fun/posts/6a6de263/) #setup#blog
