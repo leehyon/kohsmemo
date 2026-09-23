@@ -1,3 +1,4 @@
+- [Attention is all you have](https://www.alicegg.tech//2026/09/21/attention.html) #life#view
 - [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1) #life
 - [3 constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/) #product
 - [Building a backyard office, the build and cost breakdown](https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown) #life
