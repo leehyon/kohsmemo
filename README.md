@@ -1,3 +1,4 @@
+- [Shipping is the foundation](https://www.seangoedecke.com/shipping-is-the-foundation/)
 - [How to read code](https://www.seangoedecke.com/how-to-read-code/)
 - [Attention is all you have](https://www.alicegg.tech//2026/09/21/attention.html) #life#view
 - [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1) #life
