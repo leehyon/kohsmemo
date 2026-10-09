@@ -1,3 +1,4 @@
+- [Markdown in /src](https://htmx.org/essays/markdown-in-src/)
 - [Jev introduces a new shape of LLM](https://simonwillison.net/2026/Sep/21/jev/)
 - [Shipping is the foundation](https://www.seangoedecke.com/shipping-is-the-foundation/)
 - [How to read code](https://www.seangoedecke.com/how-to-read-code/)
