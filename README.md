@@ -1,3 +1,4 @@
+- [C's Flexible Integer Sizes were Not a Design Mistake](https://pikuma.com/blog/c-integer-sizes-not-a-mistake)
 - [What To Know in JavaScript (2026 Edition)](https://blog.master.dev/what-to-know-in-javascript-2026-edition/)
 - [Markdown in /src](https://htmx.org/essays/markdown-in-src/)
 - [Jev introduces a new shape of LLM](https://simonwillison.net/2026/Sep/21/jev/)
