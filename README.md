@@ -1,3 +1,4 @@
+- [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/) #writing
 - [Yes, and...](https://htmx.org/essays/yes-and/)
 - [Nobody should type code by hand anymore](https://ghuntley.com/agency/)
 - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/) #life#career
