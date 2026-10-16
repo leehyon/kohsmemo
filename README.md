@@ -1,3 +1,4 @@
+- [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website) #design#vibe-coding
 - [C's Flexible Integer Sizes were Not a Design Mistake](https://pikuma.com/blog/c-integer-sizes-not-a-mistake)
 - [What To Know in JavaScript (2026 Edition)](https://blog.master.dev/what-to-know-in-javascript-2026-edition/)
 - [Markdown in /src](https://htmx.org/essays/markdown-in-src/)
