@@ -1,3 +1,4 @@
+- [Yes, and...](https://htmx.org/essays/yes-and/)
 - [Nobody should type code by hand anymore](https://ghuntley.com/agency/)
 - [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/) #life#career
 - [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
