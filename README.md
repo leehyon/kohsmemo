@@ -1,3 +1,4 @@
+- [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
 - [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website) #design#vibe-coding
 - [C's Flexible Integer Sizes were Not a Design Mistake](https://pikuma.com/blog/c-integer-sizes-not-a-mistake)
 - [What To Know in JavaScript (2026 Edition)](https://blog.master.dev/what-to-know-in-javascript-2026-edition/)
