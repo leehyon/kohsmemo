@@ -1,3 +1,4 @@
+- [How to Build Wealth as a Career Person](https://asheradeniyi.com/2026/04/10/how-to-build-wealth-as-a-career-person/) #life#career
 - [Will Linux phones become a viable alternative to the Android/iOS duopoly?](https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/)
 - [How our vibe coded website looks like a designer made it](https://railcode.dev/blog/vibe-coded-website) #design#vibe-coding
 - [C's Flexible Integer Sizes were Not a Design Mistake](https://pikuma.com/blog/c-integer-sizes-not-a-mistake)
