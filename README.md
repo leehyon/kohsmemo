@@ -1,3 +1,4 @@
+- [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) #math
 - [My Neighbor, Me, and a Grand Principle](https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/)
 - [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 - [It's still OK to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
