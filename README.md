@@ -1,3 +1,4 @@
+- [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv) #home#setup
 - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
 - [Anti-Patterns in Software Blogging](https://refactoringenglish.com/blog/anti-patterns-software-blogging/) #writing
 - [Yes, and...](https://htmx.org/essays/yes-and/)
