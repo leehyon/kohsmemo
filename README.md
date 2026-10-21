@@ -1,3 +1,4 @@
+- [How Do Fungi Keep the Planet Healthy?](https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/)
 - [It's still OK to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming)
 - [An ad-free Android TV](https://cretezy.com/2026/ad-free-android-tv) #home#setup
 - [What Shall I Teach My Son?](https://stevekrouse.com/ends)
