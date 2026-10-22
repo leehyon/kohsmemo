@@ -1,3 +1,4 @@
+- [树莓派旁路由实战：Mihomo 透明代理与双 Wi-Fi 故障备用](https://sumsec.me/2026/sumpi-mihomo-side-router.html) #home#setup
 - [Code is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
 - [You could have invented transformers from memory](https://alexwang.ai/posts/associative-memory/) #math
 - [My Neighbor, Me, and a Grand Principle](https://lastwordonnothing.com/2026/10/19/my-neighbor-me-and-a-grand-principle/)
