@@ -1,3 +1,4 @@
+- [What Is a Hardware Wallet? ](https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained)
 - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) #home#setup
 - [树莓派旁路由实战：Mihomo 透明代理与双 Wi-Fi 故障备用](https://sumsec.me/2026/sumpi-mihomo-side-router.html) #home#setup
 - [Code is clay now](https://www.albertodenia.com/writing/code-is-clay-now)
