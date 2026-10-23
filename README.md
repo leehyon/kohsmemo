@@ -1,3 +1,4 @@
+- [嵌入式家用智能设备刷机与逆向指南](https://blog.52013120.xyz/post/74.html) #home#setup
 - [What Is a Hardware Wallet? ](https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained)
 - [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) #home#setup
 - [树莓派旁路由实战：Mihomo 透明代理与双 Wi-Fi 故障备用](https://sumsec.me/2026/sumpi-mihomo-side-router.html) #home#setup
