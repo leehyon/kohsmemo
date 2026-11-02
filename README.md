@@ -1,3 +1,4 @@
+- [俄罗斯软件哲学：单机榨干](https://mp.weixin.qq.com/s/jpiSA4d1RQLYT6POB9FEIQ)
 - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/) #language
 - [嵌入式家用智能设备刷机与逆向指南](https://blog.52013120.xyz/post/74.html) #home#setup
 - [What Is a Hardware Wallet? ](https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained)
