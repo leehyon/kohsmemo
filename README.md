@@ -1,3 +1,4 @@
+- [so i guess everyone uses llms to think now - eva's site](https://eva.ac/blog/llms/)
 - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)
 - [俄罗斯软件哲学：单机榨干](https://mp.weixin.qq.com/s/jpiSA4d1RQLYT6POB9FEIQ)
 - [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/) #language
