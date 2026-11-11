@@ -1,3 +1,4 @@
+- [Early 2000s were peak of humanity](https://lukaszkups.net/notes/early-2000s-were-peak-of-humanity/) #view
 - [so i guess everyone uses llms to think now - eva's site](https://eva.ac/blog/llms/)
 - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)
 - [俄罗斯软件哲学：单机榨干](https://mp.weixin.qq.com/s/jpiSA4d1RQLYT6POB9FEIQ)
