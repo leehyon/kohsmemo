@@ -1,3 +1,4 @@
+- [I Own 28,000 Books](https://www.shelvd.org/blog/28000-books)
 - [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
 - [Early 2000s were peak of humanity](https://lukaszkups.net/notes/early-2000s-were-peak-of-humanity/) #view
 - [so i guess everyone uses llms to think now - eva's site](https://eva.ac/blog/llms/)
