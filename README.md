@@ -1,3 +1,4 @@
+- [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
 - [I Own 28,000 Books](https://www.shelvd.org/blog/28000-books)
 - [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
 - [Early 2000s were peak of humanity](https://lukaszkups.net/notes/early-2000s-were-peak-of-humanity/) #view
