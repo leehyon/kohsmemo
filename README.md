@@ -1,3 +1,4 @@
+- [You’re Not a Better Engineer Because You Type Git Commands by Hand](https://minid.net/2026/7/10/ai-works-for-me)
 - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
 - [I Own 28,000 Books](https://www.shelvd.org/blog/28000-books)
 - [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
