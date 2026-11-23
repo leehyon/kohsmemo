@@ -1,3 +1,4 @@
+- [我的 macOS 与 AI 环境配置偏好](https://blog.zhilu.site/2026/macos-ai-setup)
 - [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
 - [Building a Multi-Agent System: 3 Patterns, Explained Simply](https://kadhar.dev/blog/multi-agent-systems-from-scratch)
 - [Obituaries](https://stratechery.com/2026/obituaries/)
