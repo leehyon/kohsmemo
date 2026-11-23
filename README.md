@@ -1,3 +1,4 @@
+- [Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
 - [Building a Multi-Agent System: 3 Patterns, Explained Simply](https://kadhar.dev/blog/multi-agent-systems-from-scratch)
 - [Obituaries](https://stratechery.com/2026/obituaries/)
 - [Maker's Schedule, Manager's Schedule](https://www.paulgraham.com/makersschedule.html)
