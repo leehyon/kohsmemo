@@ -1,3 +1,4 @@
+- [Obituaries](https://stratechery.com/2026/obituaries/)
 - [Maker's Schedule, Manager's Schedule](https://www.paulgraham.com/makersschedule.html)
 - [You’re Not a Better Engineer Because You Type Git Commands by Hand](https://minid.net/2026/7/10/ai-works-for-me)
 - [The AI coding trap](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)
